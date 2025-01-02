@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**cfbevan/cfbevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😀 My name is Charles
+- ✨ Creating bugs since 2004
+- 🌱 I’m currently learning React Native for IOS and Android
+- 📫 How to reach me: [e-mail](mailto:cfbevan@gmail.com)
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cfbevan&locale=en&hide_title=false&langs_count=8&theme=dracula&hide_border=false&size_weight=0.5&count_weight=0.5&layout=pie&order=2" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/cfbevan/count.svg?"  />
+</div>
