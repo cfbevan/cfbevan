@@ -8,7 +8,7 @@
 ## Find Me
 
 - 📫 [e-mail](mailto:pxl3cf@pm.me)
-- 🐘 [Mastodon]("https://infosec.exchange/@Pixel3CF")
+- 🐘 [Mastodon](https://infosec.exchange/@Pixel3CF)
 
 ---
 
